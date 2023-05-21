@@ -1,5 +1,6 @@
 # WeatherEye station electronic circuit
 
+![Electronic diagram](/Schemat/image.png "[Electronic diagram")
 
 ## Electronics
 
